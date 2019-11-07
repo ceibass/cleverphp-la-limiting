@@ -22,7 +22,7 @@
   ],
   "autoload": {  
     "psr-4": {
-      "Cleverphp\\LaLimiting\\": "src/"
+      "ceiba\\LaLimiting\\": "src/"
     }
   }
 }
