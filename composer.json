@@ -13,6 +13,7 @@
     "php": ">=7.0"  
   },
   "minimum-stability": "dev",  
+  "version": "v1.0.1",
   "license": "MIT", 
   
   "authors": [  
