@@ -9,9 +9,9 @@
   "require": {
     "php": ">=7.0"  
   },
-  "minimum-stability": "dev",  
+  "minimum-stability": "stable",  
   "license": "MIT", 
-  "version": "v1.0.0", 
+  
   "authors": [  
     {
       "name": "ceiba",
