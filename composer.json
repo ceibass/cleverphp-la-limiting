@@ -10,7 +10,8 @@
     "php": ">=7.0"  
   },
   "minimum-stability": "dev",  
-  "license": "MIT",  
+  "license": "MIT", 
+  "version": "v1.0.0", 
   "authors": [  
     {
       "name": "ceiba",
