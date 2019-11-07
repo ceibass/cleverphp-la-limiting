@@ -1,0 +1,25 @@
+{
+  "name": "ceiba/la-limiting", 
+  "description": "mservice limiting",  
+  "keywords": [  
+    "limiting",
+    "mservice"
+  ],
+  "type": "library",  
+  "require": {
+    "php": ">=7.0"  
+  },
+  "minimum-stability": "dev",  
+  "license": "MIT",  
+  "authors": [  
+    {
+      "name": "ceiba",
+      "email": "ceiba_@126.com"
+    }
+  ],
+  "autoload": {  
+    "psr-4": {
+      "Cleverphp\\LaLimiting\\": "src/"
+    }
+  }
+}
