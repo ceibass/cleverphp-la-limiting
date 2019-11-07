@@ -9,6 +9,9 @@
   "require": {
     "php": ">=7.0"  
   },
+  "require-dev": {
+    "php": ">=7.0"  
+  },
   "minimum-stability": "dev",  
   "license": "MIT", 
   
